@@ -12,7 +12,7 @@ IT Infrastructure student passionate about self hosting, networking and IT infra
 ```
 
 ## 🛠️ Current Projects
-- Building a homelab to try out new things and learn to improve my skilss
+- Building a homelab to try out new things and learn to improve my skills
 - Automating deployment processes with CI/CD tools
 - Learning Infrastructure As Code
 
