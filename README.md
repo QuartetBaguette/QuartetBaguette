@@ -2,6 +2,7 @@
 
 ## About Me
 IT Infrastructure student passionate about self hosting, networking and IT infrasctructures. Learning something new every day.
+Currently studying for my bachelors degree at Saxion University of Applied Sciences🎓
 
 ## 🔧 Skills & Learning
 ```
