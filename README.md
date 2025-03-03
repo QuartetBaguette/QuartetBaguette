@@ -22,6 +22,6 @@ Currently focusing on cloud infrastructure and automation. Working toward my bac
 
 ## 📫 Get in touch!
 - [LinkedIn](https://www.linkedin.com/in/ruben-van-dam-76a89b17a/)
-- Email: ruben@hedys.eu
+- Email: getintouch@hedys.eu
 
 > Joe!👋 
