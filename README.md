@@ -21,7 +21,6 @@ Currently studying for my bachelors degree at Saxion University of Applied Scien
 Currently focusing on cloud infrastructure and automation. Working toward my bachelors degree in Cloud & Cyber security!
 
 ## 📫 Get in touch!
-- [LinkedIn](https://www.linkedin.com/in/ruben-van-dam-76a89b17a/)
 - Email: getintouch@hedys.eu
 
 > Joe!👋 
